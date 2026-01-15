@@ -5,7 +5,6 @@
 
 # Binaries
 proxy
-proxy-linux
 proxy-*
 bin/
 *.exe
