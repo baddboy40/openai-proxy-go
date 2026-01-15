@@ -1,0 +1,37 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Binaries
+proxy
+proxy-linux
+proxy-*
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+.dockerignore.bak
+
+# Temporary files
+tmp/
+temp/
+*.tmp

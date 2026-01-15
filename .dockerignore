@@ -1,0 +1,10 @@
+.git
+.gitignore
+.idea
+*.md
+bin/
+*.log
+# Exclude macOS binary - only proxy-linux will be used
+proxy
+# Include proxy-linux (must be present for build)
+!proxy-linux
